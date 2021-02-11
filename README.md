@@ -1,3 +1,5 @@
 # resizing with color
  resizing window Event with vaniila JS
-#resize your web browser.
+
+ URL : 
+ https://danaisboss.github.io/resizing-with-color
